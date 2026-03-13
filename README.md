@@ -7,6 +7,9 @@ This repository contains cybersecurity articles written while learning and explo
 ## Articles
 
 - [![Ethical Hacking vs Cybercrime](images/ethical-hacking-vs-cybercrime-banner.png)](articles/ethical-hacking-vs-cybercrime.md)
+  
+- Understanding the key difference between ethical hacking and cybercrime — and why permission is the line that separates them.
+  
 - [The Thin Line Between Ethical Hacking and Cybercrime](articles/ethical-hacking-vs-cybercrime.md)
 ---
 
