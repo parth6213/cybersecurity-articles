@@ -6,7 +6,7 @@ This repository contains cybersecurity articles written while learning and explo
 
 ## Articles
 
-- [The Thin Line Between Ethical Hacking and Cybercrime](articles/ethical-hacking-vs-cybercrime.md)
+- [![Ethical Hacking vs Cybercrime](images/ethical-hacking-vs-cybercrime-banner.png)](articles/ethical-hacking-vs-cybercrime.md)
 
 ---
 
