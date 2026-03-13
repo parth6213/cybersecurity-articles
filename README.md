@@ -2,8 +2,6 @@
 
 This repository contains cybersecurity articles written while learning and exploring different topics in cybersecurity.
 
-These articles focus on security awareness, ethical hacking concepts, and penetration testing fundamentals.
-
 ---
 
 ## Articles
