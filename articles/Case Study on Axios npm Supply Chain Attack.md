@@ -1,4 +1,4 @@
-🚨 **Case Study on Axios npm Supply Chain Attack**
+# 🚨 Case Study on Axios npm Supply Chain Attack
 
 ---
 
