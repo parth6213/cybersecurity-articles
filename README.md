@@ -13,6 +13,13 @@ This repository contains cybersecurity articles written while learning and explo
 - [The Thin Line Between Ethical Hacking and Cybercrime](articles/ethical-hacking-vs-cybercrime.md)
 ---
 
+![Axios npm Supply Chain Attack](images/axios-supply-chain-attack-banner.png)
+
+[Case Study on Axios npm Supply Chain Attack](articles/Case-Study-on-Axios-npm-Supply-Chain-Attack.md)
+
+- A real-world case study on how a trusted npm package was compromised and used to deliver malware through a supply chain attack.
+---
+
 ## Author
 
 Parth Joshi  
