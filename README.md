@@ -20,6 +20,13 @@ This repository contains cybersecurity articles written while learning and explo
 - A real-world case study on how a trusted npm package was compromised and used to deliver malware through a supply chain attack.
 ---
 
+![Certifications vs Skills](images/certifications-vs-skills-banner.png)
+
+### [Stop Collecting Certificates! Focus on Real Skills Instead.](articles/certifications-vs-skills.md)
+
+- A reality check on why course completion certificates won't get you a job and why practical skills are the priority.
+
+---
 ## Author
 
 Parth Joshi  
