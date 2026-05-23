@@ -22,7 +22,7 @@ This repository contains cybersecurity articles written while learning and explo
 
 ![Stop Collecting Course Completion Certificates Like Trophies](images/Stop-Collecting-Course-Completion-Certificates-Like-Trophies-banner.png)
 
-[Stop Collecting Course Completion Certificates Like Trophies](articles/Stop-Collecting-Course-Completion-Certificates-Like-Trophies)
+[Stop Collecting Course Completion Certificates Like Trophies](articles/Stop-Collecting-Course-Completion-Certificates-Like-Trophies.md)
 
 - Why collecting dozens of course completion certificates won't guarantee a cybersecurity job and why practical skills, projects, and industry-recognized certifications matter more.
 
