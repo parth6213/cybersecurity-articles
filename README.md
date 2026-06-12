@@ -27,7 +27,7 @@ This repository contains cybersecurity articles written while learning and explo
 - Why collecting dozens of course completion certificates won't guarantee a cybersecurity job and why practical skills, projects, and industry-recognized certifications matter more.
 
 ---
-![Why Are We Still Using Weak Passwords in 2026](images/weak-passwords-2026-banner.png)
+![Why Are We Still Using Weak Passwords in 2026](images/weak-passwords-banner.png)
 
 [Why Are We Still Using Weak Passwords in 2026?](articles/weak-passwords-2026.md)
 
