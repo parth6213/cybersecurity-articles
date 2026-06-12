@@ -1,7 +1,5 @@
 # Why Are We Still Using Weak Passwords in 2026?
 
-![Banner](../images/weak-passwords-banner.png)
-
 Every day, we hear about ransomware attacks, phishing campaigns, data breaches, and advanced cyber threats. Organizations invest millions in cybersecurity technologies, threat detection, and incident response.
 
 Yet many cyberattacks still begin with something surprisingly simple:
